@@ -26,10 +26,4 @@ Este projeto implementa um controlador de mods modular (`ModController`) e subsi
 - Implementar sistemas de IA para comportamento de NPCs (perseguições, evasões, interações sociais).
 - Sistema de diálogo/ações contextuais para NPCs próximos.
 
-
-## Boas práticas para desenvolvimento
-- Teste mudanças no modo `Debug` com cuidado e sempre faça backup da pasta `scripts` do GTA.
-- Respeite limitações de performance: operações de IA e raycasts em grande escala devem ser otimizadas (rate limiting, cache, tasks assíncronas onde aplicável).
-- Mantenha compatibilidade com a versão do ScriptHookVDotNet alvo.
-
 ## WORK IN PROGRESS...
