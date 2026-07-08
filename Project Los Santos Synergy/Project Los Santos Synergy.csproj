@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4107F6BE-9B4E-4DFC-94ED-354C7291E1D8}</ProjectGuid>
+    <ProjectGuid>{866E1325-B59D-BA94-C434-9ACD7FB523F2}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Project_Los_Santos_Synergy</RootNamespace>
